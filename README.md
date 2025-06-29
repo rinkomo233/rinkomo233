@@ -1,4 +1,6 @@
-# Kamishiro Rin here. 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=KamishiroRin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
+
+### Kamishiro Rin here. 
 
 **Location:** Haven   
 **Languages:** C++/obj-c, Python, Bash, Swift  
@@ -6,15 +8,19 @@
 
 
 ### 💻 Environment
-[![Windows](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
+[![Windows](https://img.shields.io/badge/田%20Windows-00BBFF?style=flat-square)](https://www.microsoft.com/windows11)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2021%2e04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/21.04/)
-[![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/big-sur/)
-[![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/ios14/)
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=FFFFFF&labelColor=51A2DA)](https://archlinux.org)
+[![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/24.04/)
+[![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/os/macos/)
+[![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/os/ios/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-15/)
 
 ### 📱 Devices
-[![iPhone 11](https://img.shields.io/badge/iPhone%206s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://ja.wikipedia.org/wiki/IPhone_11)
+[![iPhone 11](https://img.shields.io/badge/iPhone%2011-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/IPhone_11)
+[![MacBook Air M3](https://img.shields.io/badge/Macbook%20Air%20M3-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/Apple_M3)
+[![Redmi Note 9 Pro](https://img.shields.io/badge/Redmi%2010T-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://wikipedia.org/wiki/Xiaomi_Mi_10T)
+[![Pixel 3](https://img.shields.io/badge/Pixel%203-000000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=000000)](https://wikipedia.org/wiki/Pixel_3)
 
 
 Nothing here...  
