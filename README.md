@@ -5,7 +5,7 @@
 **Languages:** C++/obj-c, Python, Bash, Swift  
 **Currently learning:** Rust, Kotlin, Go  
 
-### What F*'m doing these days lol
+### Stats
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
