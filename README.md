@@ -28,7 +28,7 @@
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/os/ios/)
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-15/)
 
-### 📱 Devices
+### Main Devices
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/IPhone_11)
 [![MacBook Air M3](https://img.shields.io/badge/Macbook%20Air%20M3-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/Apple_M3)
 [![Redmi Note 9 Pro](https://img.shields.io/badge/Redmi%2010T-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://wikipedia.org/wiki/Xiaomi_Mi_10T)
