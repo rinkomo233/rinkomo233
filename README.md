@@ -1,4 +1,4 @@
-### Kamishiro Rin here. 
+### ✨✨Kamishiro Rin here!✨✨
 
 **Location:** Haven   
 **Job:** High school student  
@@ -20,7 +20,7 @@
 
 
 ### Dev Environment
-[![Windows](https://img.shields.io/badge/田%20Windows-00BBFF?style=flat-square)](https://www.microsoft.com/windows11)
+[![Windows](https://img.shields.io/badge/田%20Windows-00BBFF?style=flat-square)](https://www.microsoft.com/windows)
 [![Manjaro](https://img.shields.io/badge/Manjaro-34BE5B?style=flat-square&logo=manjaro&logoColor=FFFFFF&labelColor=34BE5B)](https://manjaro.org)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=FFFFFF&labelColor=51A2DA)](https://archlinux.org)
