@@ -3,7 +3,7 @@
 **Location:** Haven   
 **Job:** High school student  
 **Languages:** C++/obj-c, Python, Bash, Swift  
-**Currently learning:** Rust, Kotlin, Go  
+**Currently learning:** Java, Rust, Kotlin, Go  
 
 ### Stats
 <table frame=void>
