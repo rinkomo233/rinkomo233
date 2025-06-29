@@ -1,9 +1,10 @@
-# Luni 
+# Kamishiro Rin here. 
 
 **Location:** Sweden  
-**Languages:** C#, Python, Java, Bash, JS, HTML, CSS  
-**Currently learning:** Rust, C++, Go
+**Languages:** C++/obj-c, Python, Bash, Swift
+**Currently learning:** Rust, Kotlin, Go
 
 
 
+Nothing here...
 Under construction...
