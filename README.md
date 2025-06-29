@@ -14,7 +14,7 @@
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-11/)
 
 ### 📱 Devices
-[![iPhone 6s](https://img.shields.io/badge/iPhone%206s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://product.pconline.com.cn/mobile/apple/568697.html)
+[![iPhone 11](https://img.shields.io/badge/iPhone%206s-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://ja.wikipedia.org/wiki/IPhone_11)
 
 
 Nothing here...  
