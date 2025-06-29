@@ -1,10 +1,10 @@
 # Kamishiro Rin here. 
 
-**Location:** Haven 
-**Languages:** C++/obj-c, Python, Bash, Swift
-**Currently learning:** Rust, Kotlin, Go
+**Location:** Haven   
+**Languages:** C++/obj-c, Python, Bash, Swift  
+**Currently learning:** Rust, Kotlin, Go  
 
 
 
-Nothing here...
+Nothing here...  
 and Under construction...
