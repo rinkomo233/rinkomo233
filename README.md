@@ -4,6 +4,7 @@
 **Job:** High school student  
 **Languages:** C++/obj-c, Python, Bash, Swift  
 **Currently learning:** Java, Rust, Kotlin, Go  
+**Email:** leenight2016@gmail.com/akrarimizuu@outlook.com
 
 ### Stats
 <table frame=void>
