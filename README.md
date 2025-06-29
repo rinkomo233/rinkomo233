@@ -1,10 +1,21 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=KamishiroRin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true" />
-
 ### Kamishiro Rin here. 
 
 **Location:** Haven   
+**Job:** High school student  
 **Languages:** C++/obj-c, Python, Bash, Swift  
 **Currently learning:** Rust, Kotlin, Go  
+
+### What F*'m doing these days lol
+<table frame=void>
+<tr>
+    <td style="vertical-align: top">
+        <img align="left" src="https://counter.seku.su/cmoe?name=KamishiroRin&theme=gb">
+    </td>
+    <td>
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=KamishiroRin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
+    </td>
+</tr>
+</table>
 
 
 ### 💻 Environment
