@@ -1,6 +1,6 @@
 # Kamishiro Rin here. 
 
-**Location:** Sweden  
+**Location:** Haven 
 **Languages:** C++/obj-c, Python, Bash, Swift
 **Currently learning:** Rust, Kotlin, Go
 
