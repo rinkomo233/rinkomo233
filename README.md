@@ -23,7 +23,7 @@
 [![Windows](https://img.shields.io/badge/田%20Windows-00BBFF?style=flat-square)](https://www.microsoft.com/windows)
 [![Manjaro](https://img.shields.io/badge/Manjaro-34BE5B?style=flat-square&logo=manjaro&logoColor=FFFFFF&labelColor=34BE5B)](https://manjaro.org)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-008BFF?style=flat-square&logo=arch-linux&logoColor=FFFFFF&labelColor=008BFF)](https://archlinux.org)
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=FFFFFF&labelColor=51A2DA)](https://archlinux.org)
+[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=FFFFFF&labelColor=51A2DA)](https://fedoraproject.org)
 [![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/24.04/)
 [![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/os/macos/)
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/os/ios/)
