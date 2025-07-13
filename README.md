@@ -1,4 +1,6 @@
-### ✨✨Kamishiro Rin here!✨✨
+### ✨✨Kamishiro Rin here!✨✨  
+
+a.k.a. Jonathan Le Compte  
 
 **Location:** Rabbit House Coffeehouse   
 **Job:** High school student  
