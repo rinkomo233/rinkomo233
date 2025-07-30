@@ -1,6 +1,6 @@
 ### ✨✨Kamishiro Rin here!✨✨  
 
-a.k.a. Jonathan Le Compte / Jony Lau / 刘准  
+aka Jony Lau / 刘准  
 
 **Location:** Rabbit House Coffeehouse   
 **Job:** High school student  
