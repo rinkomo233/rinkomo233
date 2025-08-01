@@ -12,10 +12,10 @@ the Starlight is your sight.
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
-        <img align="left" src="https://count.getloli.com/@KamishiroRin?name=KamishiroRin&theme=booru-jaypee&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+        <img align="left" src="https://count.getloli.com/@rinkomo233?name=rinkomo233&theme=booru-jaypee&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
     </td>
     <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=KamishiroRin&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=rinkomo233&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
     </td>
 </tr>
 </table>
