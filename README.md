@@ -1,6 +1,6 @@
 ### ✨✨Kamishiro Rin here!✨✨  
 
-aka Jony Lau / 刘准  
+the Starlight is your sight.   
 
 **Location:** Rabbit House Coffeehouse   
 **Job:** High school student  
