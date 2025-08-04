@@ -4,7 +4,7 @@ the Starlight is your sight.
 
 **Location:** Rabbit House Coffeehouse   
 **Job:** High school student  
-**Languages:** C++/obj-c, Python, Bash, Swift  
+**Languages:** C++/obj-c, Python, js, Bash, Swift  
 **Currently learning:** Java, Rust, Kotlin, Go  
 **Email:** leenight2016@gmail.com/akrarimizuu@outlook.com
 
