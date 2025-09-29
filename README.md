@@ -38,6 +38,4 @@ the Starlight is your sight.
 [![Pixel 3](https://img.shields.io/badge/Pixel%203-000000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=000000)](https://wikipedia.org/wiki/Pixel_3)
 
 
-Nothing here...  
-and Under construction...  
-欢喜您来！
+This is beautiful day to stay INSIDE.
