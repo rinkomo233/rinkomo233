@@ -36,7 +36,7 @@ akrarimizuu@outlook.com
 [![iPhone 11](https://img.shields.io/badge/iPhone%2011-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/IPhone_11)
 [![MacBook Air M3](https://img.shields.io/badge/Macbook%20Air%20M3-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/Apple_M3)
 [![Redmi Note 9 Pro](https://img.shields.io/badge/Redmi%2010T-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://wikipedia.org/wiki/Xiaomi_Mi_10T)
-[![Pixel 3](https://img.shields.io/badge/Pixel%203-000000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=000000)](https://wikipedia.org/wiki/Pixel_3)
+[![Pixel 8](https://img.shields.io/badge/Pixel%208-000000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=000000)](https://wikipedia.org/wiki/Pixel_8)
 
 
 This is beautiful day to stay INSIDE.
