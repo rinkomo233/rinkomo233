@@ -1,10 +1,10 @@
-### ✨✨Kamishiro Rin here!✨✨  
+### Kamishiro Rin here!
 
 **Languages:** C++/obj-c, Python, js, Bash, Swift, Flutter  
 **Currently learning:** Java, Rust, Kotlin, Go  
 **Email:** akrarimizuu@outlook.com
 
-### Stats
+### View Stats
 <table frame=void>
 <tr>
     <td style="vertical-align: top">
