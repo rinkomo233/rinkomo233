@@ -27,10 +27,10 @@ akrarimizuu@outlook.com
 [![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://releases.ubuntu.com/24.04/)
 [![macOS](https://img.shields.io/badge/macOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/os/macos/)
 [![iOS](https://img.shields.io/badge/iOS-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/os/ios/)
-[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-15/)
+[![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-16/)
 
 ### Main Devices
-[![iPhone 11](https://img.shields.io/badge/iPhone%2011-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/IPhone_11)
+[![iPhone 13](https://img.shields.io/badge/iPhone%2011-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/IPhone_13)
 [![MacBook Air M3](https://img.shields.io/badge/Macbook%20Air%20M3-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://wikipedia.org/wiki/Apple_M3)
 [![Redmi Note 9 Pro](https://img.shields.io/badge/Redmi%2010T-ED9121?style=flat-square&logo=xiaomi&logoColor=FFFFFF&labelColor=ED9121)](https://wikipedia.org/wiki/Xiaomi_Mi_10T)
 [![Pixel 8](https://img.shields.io/badge/Pixel%208-000000?style=flat-square&logo=google&logoColor=FFFFFF&labelColor=000000)](https://wikipedia.org/wiki/Pixel_8)
