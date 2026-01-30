@@ -4,7 +4,7 @@ the Starlight is your sight.
 
 **Location:** Rabbit House Coffeehouse   
 **Job:** 自傷無色  
-**Languages:** C++/obj-c, Python, js, Bash, Swift  
+**Languages:** C++/obj-c, Python, js, Bash, Swift, Flutter  
 **Currently learning:** Java, Rust, Kotlin, Go  
 **Email:** leenight2016@gmail.com. 
 akrarimizuu@outlook.com
@@ -15,10 +15,7 @@ akrarimizuu@outlook.com
     <td style="vertical-align: top">
         <img align="left" src="https://count.getloli.com/@rinkomo233?name=rinkomo233&theme=booru-jaypee&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
     </td>
-    <td>
-        <img align="right" src="https://github-readme-stats.vercel.app/api?username=rinkomo233&include_all_commits=true&show_icons=true&theme=buefy&count_private=true&hide_border=true">
-    </td>
-</tr>
+    
 </table>
 
 
